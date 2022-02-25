@@ -14,7 +14,7 @@
 </p><br>
 
 
-# Verbentrainer
+# Verbtrainer [DOWNLOAD THE INSTALLER HERE](https://www.dropbox.com/s/pdr0ej05dh1cyso/verbtrainer_setup.exe?dl=0)
 
 
 
@@ -35,7 +35,7 @@
 
 | _,.-'``'-.,_,.'`` Step 1 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-Get a text from a webpage / book and save it as txt, pdf or docx.|<img src="40_800x800.png" width="400"/> |
+Get a text from a webpage / book and save it as txt, pdf, epub, pptx or docx.|<img src="40_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 2 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
